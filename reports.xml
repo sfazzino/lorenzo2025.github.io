@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<studies>
+  <study>
+    <studyUID>1.2.826.0.1.3680043.8.498.118933440795525370920658160</studyUID>
+    <studyDate format="dd/MM/yyyy">05/02/2025</studyDate>
+    <modalities>MR</modalities>
+    <patientID>PR-00032005-1</patientID>
+    <patientName>FAZZINO LORENZO</patientName>
+    <reportPath></reportPath>
+  </study>
+</studies>
